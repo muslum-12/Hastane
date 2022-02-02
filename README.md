@@ -1,0 +1,2 @@
+# Hastane
+Hasta Kayıt Açma
